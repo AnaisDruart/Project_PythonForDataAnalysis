@@ -77,4 +77,4 @@ Please go check the Jupyter Notebook for more information ! :)
 ## How to use the API :
 
 
-![alt text] (<https://ibb.co/Fxs8XLG>)
+![alt text](How_To_Use_API.PNG)
