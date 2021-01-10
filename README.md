@@ -63,6 +63,7 @@ For each drug they had to select one of the following answers:
 
 I tested 5 models : Logistic Regression, Neural Network, Stochastic Gradient descent, K-NN and Decision Tree. I stocked which model was the most efficient with which drug, and the API is responding accordingly.
 I'm pretty happy about my results, since i got an accuracy from 75% to 99.3% with each drug.
+#### The mean of the five models overall is 88%.
 Please go check the Jupyter Notebook for more information ! :)
 
 ## Documents :
