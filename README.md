@@ -73,3 +73,8 @@ Please go check the Jupyter Notebook for more information ! :)
 * The power point (in pdf format) were i explain everything about the problem and my way of resolving it is https://github.com/Anasarasa/Project_PythonForDataAnalysis/blob/main/Python_for_data_analysis_DRUG_CONSUMPTION.pdf
 * I made a script to clean more easily the dataset obtained here : https://github.com/Anasarasa/Project_PythonForDataAnalysis/blob/main/cleaning_dataset.py
 * Finally, the Flask API is there : https://github.com/Anasarasa/Project_PythonForDataAnalysis/blob/main/app.py
+
+## How to use the API :
+
+
+![alt text](https://ibb.co/Fxs8XLG)
